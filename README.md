@@ -1,1 +1,1 @@
-Pasta de Códigos da Cadeira de Programação Orientada a Objeto da Uniter
+Pasta de Códigos da Cadeira de Programação Orientada a Objetos da Uniter
